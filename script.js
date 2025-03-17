@@ -1,3 +1,5 @@
+import { createClient } from '@supabase/supabase-js'
+
 const SUPABASE_URL = 'https://ukwhbprucranksyqayft.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVrd2hicHJ1Y3JhbmtzeXFheWZ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIyMDk1NjEsImV4cCI6MjA1Nzc4NTU2MX0.19IRc8a2TZG4PPImaF_f10_I3jC8ge1_tPw8aVGR9Ho';
 
